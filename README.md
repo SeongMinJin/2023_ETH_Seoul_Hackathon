@@ -1,34 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### 2023 ETH Seoul Hackathon
 
-## Getting Started
+Krypto Korea에서 주최한 해커톤에 참여했습니다.
 
-First, run the development server:
+현장에서 새롭게 알게된 World Coin 블록체인의 인증 API를 이용하여
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+한 사람당 하나의 인증된 메타마스크 주소를 가지게 하는 서비스를 만들어보았습니다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://github.com/SeongMinJin/2023_ETH_Seoul_Hackathon/assets/73181329/c6ad7474-d204-4291-a10e-d33323b69063
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
